@@ -4,9 +4,8 @@ Welcome to the Flowerpot Manager, a web-based application designed to help users
 
 ## 🚀 How to Run the Project
 
-To get this fullstack Flower Pot project running locally, follow the steps below for both the backend and frontend.
+To get this full-stack Flower Pot project running locally, follow the steps below for both the back and front end.
 
----
 
 ### 🔧 Backend Setup
 
@@ -17,7 +16,9 @@ To get this fullstack Flower Pot project running locally, follow the steps below
    npm install
    node server.js
 
-2. Now navigate to the `frontend` folder:
+### 🔧 Frontend Setup
+
+1. Now navigate to the `frontend` folder:
 
    ```bash
    cd frontend
