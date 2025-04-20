@@ -1,0 +1,8 @@
+.footer-body {
+  background-color: #8b5e3c; /* Brown color from screenshot */
+  color: white;
+  text-align: center;
+  padding: 1rem 1.5rem;
+  width: 100%;
+  flex-shrink: 0; /* Prevent footer from shrinking */
+}
