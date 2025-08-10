@@ -14,7 +14,8 @@ To get this full-stack Flower Pot project running locally, follow the steps belo
    ```bash
    cd backend
    npm install
-   node server.js
+   npm run dev
+   ```
 
 ### 🔧 Frontend Setup
 
@@ -24,3 +25,4 @@ To get this full-stack Flower Pot project running locally, follow the steps belo
    cd frontend
    npm install
    npm run dev
+   ```
